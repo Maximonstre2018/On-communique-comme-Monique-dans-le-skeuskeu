@@ -1,3 +1,3 @@
 import streamlit as st
 imput="lapin"
-liste_wpossiblities=["rabbit","race","rhyme","rogne"].
+liste_possiblities=["rabbit","race","rhyme","rogne"].
