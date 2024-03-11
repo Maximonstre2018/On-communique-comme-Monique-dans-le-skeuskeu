@@ -1,2 +1,3 @@
 import streamlit as
-st.write("Hello")
+imput="lapin"
+liste_wpossiblities=["rabbit","race","rhyme","rogne"].
